@@ -1,19 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F3350&height=120&section=header"/>
 
-<div align="center">
-<h1>Bem-vindo</h1>
-</div>
-
-<p align='center'>
-
-</p>
-<div align="center">
-📫 Onde me achar?:
-
-<div align="center"> 
-  <a href = "mailto:thiagomignac@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-mignac-a53699261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-</div>
 
 ## <img width="45" alt="about" src="https://i.kym-cdn.com/entries/icons/facebook/000/019/307/RAY0BQQXOTLICLGC.jpg"> Sobre mim:
 
@@ -41,7 +27,6 @@ apresentacao();
 - 📚 Desenvolvimento de Sistemas no [ETE-PORTO DIGITAL](https://www.linkedin.com/in/ete-porto-digital-0645021a2/)
 - 📒 Estou atualmente estudando: `JavaScript`, `C#` e `Python`<br>
 - 🧠 Me pergunte sobre: `Games`, `Back-End` e `Front-End`<br>
-
 
 ##
 
@@ -73,6 +58,14 @@ apresentacao();
 
 ## Most Useds languages
 
-<a href="https://github.com/ThiagoMignac">
-    <img align="left" height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=ThiagoMignac&layout=compact&theme=tokyonight"/>
+ <a href="https://github.com/ThiagoMignac">
+  <img align="left" height="150em" src="http://git-stats-definitive.vercel.app/api/top-langs/?username=ThiagoMignac&layout=compact&theme=tokyonight"/>
 </a>
+
+## 📫 Onde me achar?:
+  <div align = "left"  > 
+    <a href = "mailto:thiagomignac@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href = "https://www.instagram.com/th_mign/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/thiago-mignac-a53699261/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
+
