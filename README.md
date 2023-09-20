@@ -19,7 +19,7 @@
 
 <img align="right" width="335" src="https://i.pinimg.com/originals/5e/b1/16/5eb11602ed6c805919e0842d1b70cc9a.gif" />
 
-```C
+```js
 const meuNome = "Thiago Luiz Mignac Cavalcanti";
 const principaisLinguagens = ["JavaScript", "Python", "C#"];
 const ensino = [
