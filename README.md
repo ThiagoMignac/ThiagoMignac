@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F3350&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F3350&size=55&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Thiago+Mignac;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 ## <img width="45" alt="about" src="https://i.kym-cdn.com/entries/icons/facebook/000/019/307/RAY0BQQXOTLICLGC.jpg"> Sobre mim:
 
